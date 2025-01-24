@@ -1,5 +1,4 @@
 ﻿using FiorelloBackendWidthDB.Models;
-using FiorelloBackendWidthDB.ViewModels;
 using Microsoft.EntityFrameworkCore;
 
 namespace FiorelloBackendWidthDB.Data

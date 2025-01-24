@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FiorelloBackendWidthDB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d470d9d2c66e450a5062222d1740b318fc2081b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a37511fb3f0106e4b51fe0ee506ab5e20bb8f01")]
 [assembly: System.Reflection.AssemblyProductAttribute("FiorelloBackendWidthDB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FiorelloBackendWidthDB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
