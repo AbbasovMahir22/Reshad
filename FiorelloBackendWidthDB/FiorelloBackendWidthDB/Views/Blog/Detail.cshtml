@@ -1,0 +1,23 @@
+﻿@model Blog
+<div class="container">
+    <div class="row">
+        <div class="col-md-5">
+            <div class="project-info-box mt-0">
+                <h5>@Model.Title</h5>
+                <p class="mb-0">@Model.Description</p>
+            </div><!-- / project-info-box -->
+
+            <div class="project-info-box">
+               
+                <p><b>Date:</b> @Model.CreatDate.ToString("yyyy/MM/dd")</p>
+              
+            </div><!-- / project-info-box -->
+
+          <!-- / project-info-box -->
+        </div><!-- / column -->
+
+        <div class="col-md-7">
+            <img style="width:250px;height:270px" src="~/img/@Model.Image" alt="project-image" class="rounded">
+        </div><!-- / column -->
+    </div>
+</div>
